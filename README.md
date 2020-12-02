@@ -4,14 +4,16 @@
 
     [Gatsby tutorial site]
 
-    (https://www.gatsbyjs.com/tutorial/part-three/)  2020/12/02 Access date
+    (https://www.gatsbyjs.com/tutorial/part-four/)  2020/12/03 Access date
 
 2.  **What you can learn?**:
 
-    Creating Nested Layout Components
+    Data in Gatsby
 
-    - Using Gatsby plugin
-    - Creating layoout components
+    - Recap of the first half of the tutorial
+    - Data in Gatsby
+    - How Gatsby uses GraphQL
+    - Your first GraphQL query
 
 3.  **How was it?**
 
